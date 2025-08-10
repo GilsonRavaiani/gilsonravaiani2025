@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: seu_usuario/nome-da-imagem:latest
+          tags: gilsonravaiani/gilsonravaiani2025:latest
